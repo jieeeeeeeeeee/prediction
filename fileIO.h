@@ -5,9 +5,9 @@
 class _fileIO{
 public:
     void read(std::string fileName);
-    write();
+    void write();
 
-}
+};
 
 
 
